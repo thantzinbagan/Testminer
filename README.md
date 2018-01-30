@@ -1,7 +1,5 @@
-# Testminer
-crypto mining for cpu miner test
-# Thant-xmr-miner
-Thant's OpenCL XMR Miner for AMD GPUs
+# wolf-xmr-miner
+Wolf's OpenCL XMR Miner for AMD GPUs
 
 If you get an error about clCreateBuffer - lower your rawintensity. See the example config xmr.conf for details.
 
@@ -25,4 +23,4 @@ Also, it can run faster as root, which allows it to use mlock.
 
 Use a URL of "daemon+tcp://<host>:<port>" - requires bitmonerod v0.9.3.1 or newer
 
-Donations accepted at: `4AZet7eJ5AQ4W8PcVbqnE3W5dT9JY9itmD58GMeZ76Z4ctUTSfKeWTmi7vorWXnz98Y4YHfFYynctEVPyNDHLNpe1XaeWJ7
+Donations accepted at: `42QWoLF7pdwMcTXDviJvNkWEHJ4TXnMBh2Cx6HNkVAW57E48Zfw6wLwDUYFDYJAqY7PLJUTz9cHWB5C4wUA7UJPu5wPf4sZ`
